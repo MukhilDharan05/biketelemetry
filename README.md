@@ -4,7 +4,7 @@ A custom-built Flutter-based digital speedometer and tachometer app, designed sp
 
 ## ⚙️ Features
 
-- 🕹️ **Analog-Style Tachometer**
+- 🕹️ **Digital-Style Tachometer**
   - RPM range: 0–8500
   - Smooth needle sweep animation
   - Inertia-based transitions for realistic feel
